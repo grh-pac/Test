@@ -1,1 +1,2 @@
 Partitiob = newitiob
+the newitiob.am
